@@ -1,0 +1,440 @@
+[
+    {
+        "id": "101",
+        "title": "DSA",
+        "author": "Smith",
+        "available": true
+    },
+    {
+        "id": "102",
+        "title": "Python Basics",
+        "author": "John Smith",
+        "available": true
+    },
+    {
+        "id": "103",
+        "title": "Advanced Python",
+        "author": "Alice Brown",
+        "available": false
+    },
+    {
+        "id": "104",
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "available": true
+    },
+    {
+        "id": "105",
+        "title": "The Pragmatic Programmer",
+        "author": "David Thomas",
+        "available": true
+    },
+    {
+        "id": "106",
+        "title": "Introduction to Algorithms",
+        "author": "Thomas Cormen",
+        "available": false
+    },
+    {
+        "id": "107",
+        "title": "Java Programming",
+        "author": "James Gosling",
+        "available": true
+    },
+    {
+        "id": "108",
+        "title": "C Programming",
+        "author": "Dennis Ritchie",
+        "available": true
+    },
+    {
+        "id": "109",
+        "title": "C++ Fundamentals",
+        "author": "Bjarne Stroustrup",
+        "available": false
+    },
+    {
+        "id": "110",
+        "title": "JavaScript for Beginners",
+        "author": "Mark Wilson",
+        "available": true
+    },
+    {
+        "id": "111",
+        "title": "HTML and CSS",
+        "author": "Jon Duckett",
+        "available": true
+    },
+    {
+        "id": "112",
+        "title": "Learning SQL",
+        "author": "Alan Beaulieu",
+        "available": false
+    },
+    {
+        "id": "113",
+        "title": "Database Systems",
+        "author": "Raghu Ramakrishnan",
+        "available": true
+    },
+    {
+        "id": "114",
+        "title": "MySQL Handbook",
+        "author": "Paul DuBois",
+        "available": true
+    },
+    {
+        "id": "115",
+        "title": "Data Science Basics",
+        "author": "Joel Grus",
+        "available": false
+    },
+    {
+        "id": "116",
+        "title": "Hands-On Machine Learning",
+        "author": "Aur\u00c3\u00a9lien G\u00c3\u00a9ron",
+        "available": true
+    },
+    {
+        "id": "117",
+        "title": "Deep Learning",
+        "author": "Ian Goodfellow",
+        "available": true
+    },
+    {
+        "id": "118",
+        "title": "Artificial Intelligence",
+        "author": "Stuart Russell",
+        "available": false
+    },
+    {
+        "id": "119",
+        "title": "Natural Language Processing",
+        "author": "Steven Bird",
+        "available": true
+    },
+    {
+        "id": "121",
+        "title": "Computer Networks",
+        "author": "Andrew Tanenbaum",
+        "available": false
+    },
+    {
+        "id": "122",
+        "title": "Operating Systems",
+        "author": "Abraham Silberschatz",
+        "available": true
+    },
+    {
+        "id": "123",
+        "title": "Computer Architecture",
+        "author": "David Patterson",
+        "available": true
+    },
+    {
+        "id": "124",
+        "title": "Software Engineering",
+        "author": "Ian Sommerville",
+        "available": false
+    },
+    {
+        "id": "125",
+        "title": "Web Development",
+        "author": "Chris Coyier",
+        "available": true
+    },
+    {
+        "id": "126",
+        "title": "Flask Development",
+        "author": "Miguel Grinberg",
+        "available": true
+    },
+    {
+        "id": "127",
+        "title": "Django for Beginners",
+        "author": "William Vincent",
+        "available": false
+    },
+    {
+        "id": "128",
+        "title": "FastAPI Guide",
+        "author": "Sebasti\u00c3\u00a1n Ram\u00c3\u00adrez",
+        "available": true
+    },
+    {
+        "id": "129",
+        "title": "REST API Design",
+        "author": "James Smith",
+        "available": true
+    },
+    {
+        "id": "130",
+        "title": "Introduction to Data Science",
+        "author": "Morfius",
+        "available": false
+    },
+    {
+        "id": "131",
+        "title": "Linux Essentials",
+        "author": "Brian Ward",
+        "available": false
+    },
+    {
+        "id": "132",
+        "title": "Docker Basics",
+        "author": "Nigel Poulton",
+        "available": true
+    },
+    {
+        "id": "133",
+        "title": "Cloud Computing",
+        "author": "Thomas Erl",
+        "available": false
+    },
+    {
+        "id": "134",
+        "title": "Cybersecurity",
+        "author": "Charles Brooks",
+        "available": true
+    },
+    {
+        "id": "135",
+        "title": "Ethical Hacking",
+        "author": "Jon Erickson",
+        "available": true
+    },
+    {
+        "id": "136",
+        "title": "Cryptography",
+        "author": "Bruce Schneier",
+        "available": false
+    },
+    {
+        "id": "137",
+        "title": "Computer Fundamentals",
+        "author": "Peter Norton",
+        "available": true
+    },
+    {
+        "id": "138",
+        "title": "Discrete Mathematics",
+        "author": "Kenneth Rosen",
+        "available": true
+    },
+    {
+        "id": "139",
+        "title": "Linear Algebra",
+        "author": "Gilbert Strang",
+        "available": false
+    },
+    {
+        "id": "140",
+        "title": "Probability and Statistics",
+        "author": "Sheldon Ross",
+        "available": true
+    },
+    {
+        "id": "141",
+        "title": "Calculus",
+        "author": "James Stewart",
+        "available": true
+    },
+    {
+        "id": "142",
+        "title": "Numerical Methods",
+        "author": "Richard Burden",
+        "available": false
+    },
+    {
+        "id": "143",
+        "title": "Data Analysis with Python",
+        "author": "Wes McKinney",
+        "available": true
+    },
+    {
+        "id": "144",
+        "title": "Pandas Cookbook",
+        "author": "Theodore Petrou",
+        "available": true
+    },
+    {
+        "id": "145",
+        "title": "NumPy Guide",
+        "author": "Travis Oliphant",
+        "available": false
+    },
+    {
+        "id": "146",
+        "title": "Data Visualization",
+        "author": "Andy Kirk",
+        "available": true
+    },
+    {
+        "id": "147",
+        "title": "Practical Statistics",
+        "author": "Peter Bruce",
+        "available": true
+    },
+    {
+        "id": "148",
+        "title": "R Programming",
+        "author": "Norman Matloff",
+        "available": false
+    },
+    {
+        "id": "149",
+        "title": "Big Data Analytics",
+        "author": "Viktor Mayer-Sch\u00c3\u00b6nberger",
+        "available": true
+    },
+    {
+        "id": "150",
+        "title": "Data Mining",
+        "author": "Jiawei Han",
+        "available": true
+    },
+    {
+        "id": "151",
+        "title": "Neural Networks",
+        "author": "Simon Haykin",
+        "available": false
+    },
+    {
+        "id": "152",
+        "title": "Computer Vision",
+        "author": "Richard Szeliski",
+        "available": true
+    },
+    {
+        "id": "153",
+        "title": "Reinforcement Learning",
+        "author": "Richard Sutton",
+        "available": true
+    },
+    {
+        "id": "154",
+        "title": "Prompt Engineering",
+        "author": "Lee Boonstra",
+        "available": false
+    },
+    {
+        "id": "155",
+        "title": "Building LLM Applications",
+        "author": "Jay Alammar",
+        "available": true
+    },
+    {
+        "id": "156",
+        "title": "AI Agents",
+        "author": "Michael Wooldridge",
+        "available": true
+    },
+    {
+        "id": "157",
+        "title": "Retrieval Augmented Generation",
+        "author": "Patrick Lewis",
+        "available": false
+    },
+    {
+        "id": "158",
+        "title": "Async Python",
+        "author": "Matthew Fowler",
+        "available": true
+    },
+    {
+        "id": "159",
+        "title": "Python Automation",
+        "author": "Al Sweigart",
+        "available": true
+    },
+    {
+        "id": "160",
+        "title": "Effective Python",
+        "author": "Brett Slatkin",
+        "available": false
+    },
+    {
+        "id": "161",
+        "title": "Fluent Python",
+        "author": "Luciano Ramalho",
+        "available": true
+    },
+    {
+        "id": "162",
+        "title": "Python Cookbook",
+        "author": "David Beazley",
+        "available": true
+    },
+    {
+        "id": "163",
+        "title": "Object Oriented Programming",
+        "author": "Robert Lafore",
+        "available": false
+    },
+    {
+        "id": "164",
+        "title": "Design Patterns",
+        "author": "Erich Gamma",
+        "available": true
+    },
+    {
+        "id": "165",
+        "title": "Refactoring",
+        "author": "Martin Fowler",
+        "available": true
+    },
+    {
+        "id": "166",
+        "title": "Test Driven Development",
+        "author": "Kent Beck",
+        "available": false
+    },
+    {
+        "id": "167",
+        "title": "Unit Testing",
+        "author": "Vladimir Khorikov",
+        "available": true
+    },
+    {
+        "id": "168",
+        "title": "Debugging Python",
+        "author": "David Agans",
+        "available": true
+    },
+    {
+        "id": "169",
+        "title": "Algorithms Unlocked",
+        "author": "Thomas Cormen",
+        "available": false
+    },
+    {
+        "id": "170",
+        "title": "Competitive Programming",
+        "author": "Steven Halim",
+        "available": true
+    },
+    {
+        "id": "172",
+        "title": "Graph Algorithms",
+        "author": "Robert Sedgewick",
+        "available": false
+    },
+    {
+        "id": "173",
+        "title": "Dynamic Programming",
+        "author": "Aditya Bhargava",
+        "available": true
+    },
+    {
+        "id": "181",
+        "title": "ai agent",
+        "author": "lucas",
+        "available": true
+    },
+    {
+        "id": "182",
+        "title": "mcp",
+        "author": "json",
+        "available": true
+    }
+]
